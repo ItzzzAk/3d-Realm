@@ -1,18 +1,18 @@
-# Crazy Tube Realm 3D
+# 🌌 Crazy Tube Realm 3D 🎨
 
-![Banner](https://example.com/banner-image.jpg) <!-- Replace with your actual banner image URL -->
+![Banner](./banner.png) <!-- Replace with your actual banner image URL -->
 
 ## Overview
 
-**Crazy Tube Realm 3D** is an interactive 3D visualization project that synchronizes 3D animations with audio playback. This project uses Three.js for 3D rendering, OrbitControls for camera control, and post-processing effects to create a vibrant and dynamic experience. The scene includes a tube geometry, animated boxes, and interactive audio visualization.
+**Crazy Tube Realm 3D** is an immersive 3D visualization project that synchronizes stunning 3D animations with audio playback. Leveraging the power of Three.js, this project offers dynamic 3D visuals, interactive controls, and a vibrant audio-visual experience. 🚀✨
 
 ## Features
 
-- **3D Visualization**: Animated 3D tube geometry with dynamic camera movements.
-- **Audio Sync**: Synchronize camera movement and scene effects with audio playback.
-- **Interactive Controls**: Start and stop the visualization with button controls.
-- **Post-processing Effects**: Enhanced visuals with Unreal Bloom Pass and other effects.
-- **Responsive Design**: Adapts to various screen sizes and resolutions.
+- **🎨 3D Visualization**: Animated 3D tube geometry with dynamic camera movements.
+- **🎵 Audio Sync**: Synchronize camera movement and scene effects with audio playback.
+- **🔄 Interactive Controls**: Easily start and stop the visualization with button controls.
+- **🌟 Post-processing Effects**: Enhanced visuals with Unreal Bloom Pass and other effects.
+- **📱 Responsive Design**: Adapts seamlessly to various screen sizes and resolutions.
 
 ## Getting Started
 
@@ -20,8 +20,8 @@ To get started with this project, follow these steps:
 
 ### Prerequisites
 
-- A modern web browser (e.g., Chrome, Firefox)
-- Node.js and npm (for development purposes)
+- 🌐 A modern web browser (e.g., Chrome, Firefox)
+- 🧰 Node.js and npm (for development purposes)
 
 ### Installation
 
